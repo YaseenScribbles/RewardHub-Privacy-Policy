@@ -13,7 +13,7 @@ meant for children.
 ## Who to contact
 
 ESSA Garments Private Limited  
-22, Venkatesaiya Colony, Kangeyam Road, Tirupur 641604, Tamil Nadu, India  
+21, Venkatesaiya Colony, Kangeyam Road, Tirupur 641604, Tamil Nadu, India  
 Email: [customercare@essagarments.com](mailto:customercare@essagarments.com)
 
 Questions, corrections, deletion requests and complaints about your data go to that email.
