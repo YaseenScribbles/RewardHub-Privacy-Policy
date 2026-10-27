@@ -34,13 +34,14 @@ Questions, corrections, deletion requests and complaints about your data go to t
 - QR codes read that aren't ESSA coupons, cut to the first 50 characters, so we can tell why they
   weren't added
 - photos of coupons whose QR code won't scan, taken with the phone's camera when the shop asks us to
-  check one
+  check one, and any note sent with them
 - gifts redeemed, delivery addresses, and the parcels we send
 - the gift the shop is saving for, and what is in its cart
 - a sign-in record for each phone: the phone's model name and when it last signed in
 
 **We don't collect** location, contacts, photos from the gallery, or advertising identifiers. The
-app contains no advertising, and no analytics or tracking tools.
+app contains no advertising, and no analytics or tracking tools of our own (but see Google's QR
+reader, below).
 
 ## The camera
 
@@ -71,6 +72,10 @@ We don't sell your data, and we don't use it for advertising.
 - **Service providers** who act for us:
   - SMS Gateway Center, to send sign-in and confirmation codes to your mobile number
   - Hostinger, whose servers host the app's data
+  - Google, whose ML Kit reads QR codes on the phone. It sends Google technical diagnostics about the
+    reader: the phone's make, model and system version, the app's version, an identifier for this
+    installation, and how fast it ran and any errors. It doesn't receive the codes or the camera's
+    images. See [Google's disclosure](https://developers.google.com/ml-kit/android-data-disclosure).
   - courier and transport companies, who receive the delivery name, phone number and address on a
     parcel
 - **Authorities**, when the law requires it.
